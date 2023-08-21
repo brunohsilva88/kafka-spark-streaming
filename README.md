@@ -12,7 +12,7 @@ It was used in this Pipeline:
  
 Follow below step by step to run the pipeline:
 
-1. GitHub Link https://github.com/brunohsilva88/kafka-spark-streaming.git). The struture has to be the same as image below:
+1. GitHub Link https://github.com/brunohsilva88/kafka-spark-streaming.git. The struture has to be the same as image below:
 
   ![image](https://github.com/brunohsilva88/kafka-spark-streaming/assets/91852282/717e0f17-fe6f-4745-b369-1fd2884a6dd4)
 
